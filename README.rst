@@ -14,7 +14,7 @@ Example:
     api = GitHubApi("myuser", "mypass")
 
     # Create a repository
-    api.create_repo({'name': 'mytestrepo1', 'description': 'Github Repo - API Test 1', 'auto_init': True}
+    api.create_repo({'name': 'mytestrepo1', 'description': 'Github Test 1', 'auto_init': True}
 
     # Edit the repo description
     api.edit_myrepo("mytestrepo1", {'description': 'Another description for my repo'})
@@ -44,4 +44,4 @@ This source code is available in https://github.com/mrsarm/python-agha
 
 Developed by Mariano Ruiz <mrsarm@gmail.com>
 
-License: LGPL-3 (C) 2013
+License: LGPL-3 (C) 2014
