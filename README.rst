@@ -40,5 +40,8 @@ Requirements
 About
 -----
 
-Developed by Mariano Ruiz<mrsarm@gmail.com>
+This source code is available in https://github.com/mrsarm/python-agha
+
+Developed by Mariano Ruiz <mrsarm@gmail.com>
+
 License: LGPL-3 (C) 2013
