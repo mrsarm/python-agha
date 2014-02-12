@@ -4,8 +4,8 @@ Installing agha
 Prerequisites
 -------------
 
- * Python 2.6+
- * requests 2.2+
+* Python 2.6+
+* requests 2.2+
 
 Installation
 ------------

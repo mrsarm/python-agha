@@ -6,7 +6,9 @@ Yes, Agha is another GitHub API library for Python 2.x development.
 Support basic CRUD operations throw the
 official REST API v3: http://developer.github.com/v3/
 
-Example::
+Example:
+
+.. code:: python
 
     from agha import GitHubApi
     api = GitHubApi("myuser", "mypass")
