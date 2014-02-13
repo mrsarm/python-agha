@@ -29,6 +29,7 @@ setup(
     name = 'agha',
     version=agha.__version__,
     url='http://github.com/mrsarm/python-agha',
+    download_url = 'https://github.com/mrsarm/python-agha/tarball/' + agha.__version__,
     license=agha.__license__,
     author='Mariano Ruiz',
     author_email='mrsarm@gmail.com',
