@@ -21,16 +21,17 @@
 #
 ##############################################################################
 
+__version__ = '0.1.0'
+__license__ = 'LGPL-3'
 
 from setuptools import setup
-import agha
 
 setup(
     name = 'agha',
-    version=agha.__version__,
+    version=__version__,
     url='http://github.com/mrsarm/python-agha',
-    download_url = 'https://github.com/mrsarm/python-agha/tarball/' + agha.__version__,
-    license=agha.__license__,
+    download_url = 'https://github.com/mrsarm/python-agha/tarball/' + __version__,
+    license=__license__,
     author='Mariano Ruiz',
     author_email='mrsarm@gmail.com',
     description='Agha, Another GitHub API',

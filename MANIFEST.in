@@ -2,4 +2,4 @@ include COPYING
 include COPYING.LESSER
 include README.rst
 include CHANGELOG
-include INSTALL
+include INSTALL.rst
